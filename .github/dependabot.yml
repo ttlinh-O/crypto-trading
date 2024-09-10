@@ -9,3 +9,4 @@ updates:
     directory: "/crypto-trading" # Location of package manifests
     schedule:
       interval: "daily"
+    target-branch: "test"
