@@ -5,7 +5,7 @@
 
 version: 2
 updates:
-  - package-ecosystem: "bundler" # See documentation for possible values
+  - package-ecosystem: "gradle" # See documentation for possible values
     directory: "/crypto-trading" # Location of package manifests
     schedule:
       interval: "daily"
